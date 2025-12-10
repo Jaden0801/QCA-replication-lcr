@@ -36,7 +36,7 @@ nec_neg <- pof(
 
 print(nec_neg)
 #---------------------------
-# make sure we only have C1–C5 和 Outcome：
+# make sure we only have C1–C5 and Outcome：
 data_qca <- data[, c("C1","C2","C3","C4","C5","Outcome")]
 
 # ============================
